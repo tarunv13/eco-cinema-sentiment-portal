@@ -1,0 +1,16 @@
+streamlit
+pandas
+pydeck
+plotly
+python-dotenv
+tqdm
+langdetect
+geopy
+bertopic
+sentence-transformers
+transformers
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+praw
+tweepy
+serpapi
+requests
